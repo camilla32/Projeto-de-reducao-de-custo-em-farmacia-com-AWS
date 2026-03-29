@@ -88,7 +88,8 @@ Principais reduções:
 - 🖼️ Diagrama de arquitetura da solução  
 - 📊 Planilha de estimativa de custos  
 - 📂 Base de dados sintética  
-- 🧾 Relatório do projeto  
+- 🧾 Relatório do projeto
+- dashboard (Power BI ) 
 
 ---
 
@@ -103,8 +104,7 @@ Principais reduções:
 
 ## 💡 Possíveis Melhorias
 
-- Integração com APIs externas  
-- Implementação de dashboards (Power BI / Excel)  
+- Integração com APIs externas    
 - Automação completa do pipeline de dados  
 - Monitoramento com ferramentas AWS  
 
