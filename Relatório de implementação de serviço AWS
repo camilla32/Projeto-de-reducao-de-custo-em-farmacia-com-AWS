@@ -1,0 +1,62 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+**Data:** 29 de março de 2026  
+**Empresa:** Abstergo Industries  
+**Responsável:** Camila Silva dos Santos  
+
+---
+
+## 📌 Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Camila Silva dos Santos. O objetivo do projeto foi selecionar e propor a utilização de 3 serviços da AWS, com a finalidade de promover a diminuição de custos operacionais imediatos, além de melhorar a escalabilidade e eficiência dos processos tecnológicos da empresa.
+
+---
+
+## 🚀 Descrição do Projeto
+
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, são descritas as etapas do projeto:
+
+---
+
+### 🔹 Etapa 1
+- **Nome da ferramenta:** Amazon S3 (Simple Storage Service)  
+- **Foco da ferramenta:** Armazenamento de dados em nuvem  
+- **Descrição de caso de uso:**  
+Substituição de servidores locais utilizados para armazenamento de documentos, relatórios e dados operacionais. Com o uso do Amazon S3, a empresa passa a armazenar arquivos de forma segura e escalável, pagando apenas pelo volume utilizado, reduzindo custos com infraestrutura física e manutenção.
+
+---
+
+### 🔹 Etapa 2
+- **Nome da ferramenta:** Amazon RDS (Relational Database Service)  
+- **Foco da ferramenta:** Gerenciamento de banco de dados relacional  
+- **Descrição de caso de uso:**  
+Migração do banco de dados local da empresa para o Amazon RDS, eliminando a necessidade de manutenção de servidores próprios. O serviço oferece backup automático, alta disponibilidade e escalabilidade, reduzindo custos com suporte técnico e riscos de falhas.
+
+---
+
+### 🔹 Etapa 3
+- **Nome da ferramenta:** AWS Lambda  
+- **Foco da ferramenta:** Computação serverless e automação de processos  
+- **Descrição de caso de uso:**  
+Automatização de processos internos, como atualização de estoque, processamento de pedidos e geração de relatórios. Com o AWS Lambda, a empresa executa códigos sob demanda, pagando apenas pelo tempo de execução, evitando custos com servidores ociosos.
+
+---
+
+## 📊 Conclusão
+A implementação de ferramentas na empresa **Abstergo Industries** tem como esperado a redução significativa de custos com infraestrutura, manutenção e energia, além de proporcionar maior escalabilidade, segurança e eficiência operacional. Essas melhorias contribuem diretamente para o aumento da produtividade e competitividade da empresa.
+
+Recomenda-se a continuidade da utilização das ferramentas implementadas e a adoção de novas soluções em nuvem para otimização contínua dos processos.
+
+---
+
+## 📎 Anexos
+
+- Diagrama de arquitetura da solução em nuvem  
+- Planilha de estimativa de custos (on-premise vs AWS)  
+- Exemplo de base de dados (CSV)   
+- Dashboard de análise de dados (Excel/Power BI)  
+
+---
+
+## ✍️ Assinatura do Responsável pelo Projeto
+
+**Camila Silva dos Santos**
